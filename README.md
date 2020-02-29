@@ -4,4 +4,6 @@ I have Naive-Bayes-Classifer inside which GaussianNB package, You can use Multin
 MultinomialNB increased the accuracy of model.
 
 To run:
-Simply download the project and run inside Jupyter Notebook(Assuming you have pandas library installed)
+Simply download the project and run the file 
+## fake_news.ipynb 
+inside Jupyter Notebook(Assuming you have pandas library installed)
